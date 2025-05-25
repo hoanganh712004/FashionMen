@@ -17,7 +17,7 @@
         <url-pattern>/dashboard</url-pattern>
     </filter-mapping>
     
-    <welcome-file-list>
+<!--    <welcome-file-list>
         <welcome-file>home</welcome-file>
-    </welcome-file-list>
+    </welcome-file-list>-->
 </web-app>
