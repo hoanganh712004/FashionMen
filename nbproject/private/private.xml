@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="2">
+        <file>
+            <url>src/java/controller/user/ShoppingCartController.java</url>
+            <bookmark id="1">
+                <name/>
+                <line>60</line>
+                <key/>
+            </bookmark>
+        </file>
+        <file>
+            <url>web/views/admin/item-page/maincategory.jsp</url>
+            <bookmark id="2">
+                <name/>
+                <line>147</line>
+                <key/>
+            </bookmark>
+        </file>
+    </editor-bookmarks>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group name="Assginment_PRJ301">
+            <file>file:/D:/Workspace/KI_4/Assignment_PRJ301/360-Fashion-Men-VN/src/java/controller/user/ShoppingCartServlet.java</file>
+            <file>file:/D:/Workspace/KI_4/Assignment_PRJ301/360-Fashion-Men-VN/src/java/controller/admin/AddUserServlet.java</file>
+            <file>file:/D:/Workspace/KI_4/Assignment_PRJ301/360-Fashion-Men-VN/src/java/dal/WalletDAO.java</file>
+            <file>file:/D:/Workspace/KI_4/Assignment_PRJ301/360-Fashion-Men-VN/src/java/dal/UserDAO.java</file>
+            <file>file:/D:/Workspace/KI_4/Assignment_PRJ301/360-Fashion-Men-VN/src/java/controller/admin/DashboardServlet.java</file>
+        </group>
+        <group name="PRJ301_4USER">
+            <file>file:/D:/8.FPT%20University/Spring25/Java%20Wed%20Application%20Development(PRJ301)/project/360-Fashion-Men-VN/web/views/admin/item-page/reviewreportchart.jsp</file>
+            <file>file:/D:/8.FPT%20University/Spring25/Java%20Wed%20Application%20Development(PRJ301)/project/360-Fashion-Men-VN/web/views/admin/dashboard/dashboard.jsp</file>
+            <file>file:/D:/8.FPT%20University/Spring25/Java%20Wed%20Application%20Development(PRJ301)/project/360-Fashion-Men-VN/web/views/common/admin/leftmainsidebar.jsp</file>
+            <file>file:/D:/8.FPT%20University/Spring25/Java%20Wed%20Application%20Development(PRJ301)/project/360-Fashion-Men-VN/src/java/model/Comment.java</file>
+            <file>file:/D:/8.FPT%20University/Spring25/Java%20Wed%20Application%20Development(PRJ301)/project/360-Fashion-Men-VN/src/java/controller/admin/DashboardController.java</file>
+            <file>file:/D:/8.FPT%20University/Spring25/Java%20Wed%20Application%20Development(PRJ301)/project/360-Fashion-Men-VN/src/java/controller/admin/ReviewReportChart.java</file>
+        </group>
+        <group/>
+        <group name="PRJ301"/>
+    </open-files>
+</project-private>
